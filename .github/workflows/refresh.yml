@@ -27,7 +27,7 @@ jobs:
           
       - name: Find updates and download them
         run: |
-          aptb 'https://lclrc.github.io/'
+          aptb 'https://lclrc.github.io/repo/'
 
       - name: Refresh Packages
         if: success()
