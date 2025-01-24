@@ -2158,6 +2158,42 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 3.5.7
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 10484
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_3.5.7_iphoneos-arm_5fb2c59ae4c69cb1b0bd157581123442d4b0a7b6976e76b7a2e654829d11b95b.deb
+Size: 2423810
+MD5sum: 136d22af1abe4b2440886da7fadd45cd
+SHA1: 85c96544164ba654775f266e3a3c06a61634a6b3
+SHA256: 5fb2c59ae4c69cb1b0bd157581123442d4b0a7b6976e76b7a2e654829d11b95b
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 3.5.7
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 10484
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.7_iphoneos-arm64_2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef.deb
+Size: 2422084
+MD5sum: 0a6adfaf16d27029f46e2599f4309506
+SHA1: b559d02e17589134a13f07e0f20324155858ea2c
+SHA256: 2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.6
 Architecture: iphoneos-arm64e
